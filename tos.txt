@@ -1,0 +1,22 @@
+TERMS OF SERVICE
+------------------------------------------------------
+
+
+1. Terms
+
+By using this discord bot, you are agreeing to be bound to these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. 
+If you do not agree with any of these terms, you are no longer authorized to use this discord bot. 
+The materials contained here is protected by applicable copyright and trademark law.
+
+2. Limitations
+
+The bot shall not be used in any illegal activities, which might break the law or the tos of discord.
+
+3. Modifications
+
+These terms of service might get changed at any time without notice. 
+By using this discord bot you are agreeing to be bound to the current version of these terms of service.
+
+4. Governing Law
+
+These terms and conditions are governed by and construed in accordance with the laws of California and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
