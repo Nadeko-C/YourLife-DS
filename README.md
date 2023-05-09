@@ -1,2 +1,2 @@
 # YourLife-DS
-Just a repo for all the info
+Just a repo for all the info.
